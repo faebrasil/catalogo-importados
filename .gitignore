@@ -1,0 +1,15 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Dependências (caso futuramente use Node)
+node_modules/
+
+# Ferramentas locais de desenvolvimento / editor
+.claude/
+.vscode/
+
+# Logs
+*.log
