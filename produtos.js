@@ -2,7 +2,7 @@
  *  ARQUIVO GERADO AUTOMATICAMENTE - NÃO EDITE À MÃO.
  *  Para atualizar: adicione fotos em "imagens/<categoria>/" e rode
  *  "atualizar-catalogo.bat" (ou: node gerar-catalogo.js).
- *  Gerado em: 18/06/2026, 22:41:18
+ *  Gerado em: 19/06/2026, 05:10:01
  * ========================================================================== */
 window.CATALOGO = {
   "perfumes-masculinos": {
@@ -48,6 +48,14 @@ window.CATALOGO = {
       {
         "img": "imagens/perfumes-femininos/lattafa-my-yara-collection.jpeg",
         "nome": "Lattafa My Yara Collection"
+      },
+      {
+        "img": "imagens/perfumes-femininos/locao-corporal.jpeg",
+        "nome": "Locao Corporal"
+      },
+      {
+        "img": "imagens/perfumes-femininos/vanila.jpeg",
+        "nome": "Vanila"
       },
       {
         "img": "imagens/perfumes-femininos/victorias-secret-coconut-passion.jpeg",
